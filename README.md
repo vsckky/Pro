@@ -18,4 +18,7 @@ https://raw.githubusercontent.com/vsckky/Pro/builds/repo.json
 ##
 
 </details>
-## 📝Proyek masih dalam tahap pengembangan
+
+## 📝catatan
+
+Proyek masih dalam tahap pengembangan
