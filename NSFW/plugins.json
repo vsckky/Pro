@@ -105,6 +105,21 @@
     "name": "Kurakura"
   },
   {
+    "iconUrl": "https://pornone.com/favicon.ico",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/vsckky/Pro",
+    "fileSize": 10134,
+    "status": 1,
+    "language": "en",
+    "authors": ["vsckky"],
+    "tvTypes": ["NSFW"],
+    "version": 1,
+    "internalName": "PornOne",
+    "description": "18+ Movie",
+    "url": "https://raw.githubusercontent.com/vsckky/Pro/builds/NSFW/PornOne.cs3",
+    "name": "PornOne"
+  },
+  {
     "iconUrl": "https://sextb.net/images/icons/favicon-96x96.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/vsckky/Pro",
