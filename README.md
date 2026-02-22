@@ -16,3 +16,6 @@ https://raw.githubusercontent.com/vsckky/Pro/builds/repo.json
 6. Ekstensi yang tersedia akan muncul di daftar.
 7. Pilih ekstensi yang ingin Anda instal dan klik "Instal".
 ##
+
+</details>
+## 📝Proyek masih dalam tahap pengembangan
