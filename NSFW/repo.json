@@ -1,9 +1,0 @@
-{
-  "name": "Javan18+",
-  "description": "NSFW Repository",
-  "iconUrl": "https://i.ibb.co.com/tp5xm4b0/vsckky.png",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/vsckky/Pro/builds/NSFW/plugins.json"
-  ]
-}
