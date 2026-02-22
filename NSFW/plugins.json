@@ -15,6 +15,21 @@
     "name": "Areajav"
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/main/eporner.ico",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/vsckky/Pro",
+    "fileSize": 11268,
+    "status": 1,
+    "language": "en",
+    "authors": ["vsckky"],
+    "tvTypes": ["NSFW"],
+    "version": 1,
+    "internalName": "Eporner",
+    "description": "18+ Movie",
+    "url": "https://raw.githubusercontent.com/vsckky/Pro/builds/NSFW/Eporner.cs3",
+    "name": "Eporner"
+  },
+  {
     "iconUrl": "https://javhd.today/favicon-96x96.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/vsckky/Pro",
